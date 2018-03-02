@@ -16,10 +16,10 @@
     "lint": "grunt lint",
     "dist": "grunt prod"
   },
-  "main": "dist/angular-datepicker.min.js",
+  "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/720kb/angular-datepicker.git"
+    "url": "https://github.com/declspec/angular-datepicker.git"
   },
   "license": "MIT",
   "devDependencies": {
